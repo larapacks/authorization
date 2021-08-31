@@ -1,6 +1,6 @@
 # Authorization
 
-[![Build Status](https://img.shields.io/github/workflow/status/directorytree/ldaprecord/run-tests.svg?style=flat-square)](https://github.com/DirectoryTree/LdapRecord/actions)
+[![Build Status](https://img.shields.io/github/workflow/status/larapacks/authorization/run-tests.svg?style=flat-square)](https://github.com/larapacks/authorization/actions)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/larapacks/authorization/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/larapacks/authorization/?branch=master)
 [![Total Downloads](https://img.shields.io/packagist/dt/larapacks/authorization.svg?style=flat-square)](https://packagist.org/packages/larapacks/authorization)
 [![Latest Stable Version](https://img.shields.io/packagist/v/larapacks/authorization.svg?style=flat-square)](https://packagist.org/packages/larapacks/authorization)
