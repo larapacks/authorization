@@ -8,6 +8,10 @@
 
 An easy, native role / permission management system for Laravel.
 
+## 🚨 Repository Has Moved 🚨
+
+This repository has been moved to: [DirectoryTree/Authorization](https://github.com/DirectoryTree/Authorization).
+
 ## Index
 
 - [Installation](#installation)
